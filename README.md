@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hey！这里是 Ricky8955555
 
-<!--
-**ricky8955555/ricky8955555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+你好呀，我是一个万能的工具人
 
-Here are some ideas to get you started:
+个人网站：https://ricky8955555.neocities.org/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=ricky8955555&hide=html)
+![ricky8955555's stats](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=ricky8955555&show_icons=true&count_private=true&line_height=33.99)
+
+### 编程语言
+
+- C#
+- VB/VB.NET
+- HTML/CSS
+
+### 项目
+
+#### 个人或主要贡献项目
+
+|项目归属|项目名|介绍|语言|框架 / SDK|程序版本|状态|
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+|[@ricky8955555](https://github.com/ricky8955555)|[Ricky8955555.CoolQ](https://github.com/ricky8955555/Ricky8955555.CoolQ)|一款基于 酷Q 的机器人插件|C#|.NET Framework 4.7.2 / [HuajiTech.CoolQ](https://github.com/huajitech/coolq-dotnet-sdk)|v1.13.1 (release) v2.3.x (debug)|随缘|
+|[@huajitech](https://gitlab.huajitech.net/huajitech)|[HuajiTech.Mirai](https://gitlab.huajitech.net/huajitech/mirai-http-dotnet-sdk)|用于开发 mirai 应用基于 mirai-http-api 的 .NET SDK|C#|.NET Core 3.1|Debugging|持更|
+
+#### 作为贡献者的项目
+|项目归属|项目名|介绍|语言|
+|:----:|:----:|:----:|:----:|
+|[@huajitech](https://github.com/huajitech)|[HuajiTech.CoolQ](https://github.com/huajitech/coolq-dotnet-sdk)|用于酷Q应用的 .NET SDK|C#|
