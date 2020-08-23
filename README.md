@@ -2,6 +2,8 @@
 
 你好呀，我是一个万能的工具人
 
+QQ: 397050061
+
 个人网站：https://ricky8955555.neocities.org/
 
 ![Top Langs](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=ricky8955555&hide=html)
