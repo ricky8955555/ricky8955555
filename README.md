@@ -21,8 +21,8 @@ QQ: 397050061
 
 |项目归属|项目名|介绍|语言|框架 / SDK|程序版本|状态|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|[@ricky8955555](https://github.com/ricky8955555)|[Ricky8955555.CoolQ](https://github.com/ricky8955555/Ricky8955555.CoolQ)|一款基于 酷Q 的机器人插件|C#|.NET Framework 4.7.2 / [HuajiTech.CoolQ](https://github.com/huajitech/coolq-dotnet-sdk)|v1.13.1 (release) v2.3.x (debug)|随缘|
-|[@ricky8955555](https://gitlab.huajitech.net/Ricky8955555)|[Ricky8955555.Mirai.Routing](https://gitlab.huajitech.net/Ricky8955555/mirai-routing)|基于 HuajiTech.Mirai 用于路由指令消息的类库|C#|.NET Core 3.1 / [HuajiTech.Mirai](https://gitlab.huajitech.net/huajitech/mirai-http-dotnet-sdk)|v1.0.0 (debug)|随缘|
+|[@ricky8955555](https://github.com/ricky8955555)|[Ricky8955555.CoolQ](https://github.com/ricky8955555/Ricky8955555.CoolQ)|一款基于 酷Q 的机器人插件|C#|.NET Framework 4.7.2 / [HuajiTech.CoolQ](https://github.com/huajitech/coolq-dotnet-sdk)|v1.13.1 (release) v2.3.x (debug)|停更|
+|[@ricky8955555](https://gitlab.huajitech.net/Ricky8955555)|[Ricky8955555.Mirai.Routing](https://gitlab.huajitech.net/Ricky8955555/mirai-routing)|基于 HuajiTech.Mirai 用于路由指令消息的类库|C#|.NET Core 3.1 / [HuajiTech.Mirai](https://gitlab.huajitech.net/huajitech/mirai-http-dotnet-sdk)|v1.0.3-beta (debug)|随缘|
 |[@huajitech](https://gitlab.huajitech.net/huajitech)|[HuajiTech.Mirai](https://gitlab.huajitech.net/huajitech/mirai-http-dotnet-sdk)|用于开发 mirai 应用基于 mirai-http-api 的 .NET SDK|C#|.NET Core 3.1|Debugging|持更|
 
 #### 作为贡献者的项目
