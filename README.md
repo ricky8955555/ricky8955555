@@ -29,3 +29,4 @@ QQ: 397050061
 |项目归属|项目名|介绍|语言|
 |:----:|:----:|:----:|:----:|
 |[@huajitech](https://github.com/huajitech)|[HuajiTech.CoolQ](https://github.com/huajitech/coolq-dotnet-sdk)|用于酷Q应用的 .NET SDK|C#|
+|[@Mo-Ink](https://github.com/Mo-Ink)|[SeewoHelper](https://github.com/Mo-Ink/SeewoHelper)|解决Seewo一体机屏幕过大不便操作的问题|C#|
