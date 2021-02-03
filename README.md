@@ -6,8 +6,8 @@ QQ: 397050061
 
 个人网站：https://ricky8955555.neocities.org/
 
-![Top Langs](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=ricky8955555&hide=html)
-![ricky8955555's stats](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=ricky8955555&show_icons=true&count_private=true&line_height=33.99)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricky8955555&&layout=compact)
+![ricky8955555's stats](https://github-readme-stats.vercel.app/api?username=ricky8955555&show_icons=true&count_private=true)
 
 ### 编程语言
 
