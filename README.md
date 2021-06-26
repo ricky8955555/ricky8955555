@@ -19,12 +19,12 @@ QQ: 397050061
 
 #### 个人或主要贡献项目
 
-|项目归属|项目名|介绍|语言|框架 / SDK|程序版本|状态|
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|[@Mo-Ink](https://github.com/Mo-Ink)|[SeewoHelper](https://github.com/Mo-Ink/SeewoHelper)|解决Seewo一体机屏幕过大不便操作的问题|C#|.NET 5.0|Debugging|持更|
-|[@huajitech](https://github.com/huajitech)|[HuajiTech.Mirai.Http](https://github.com/huajitech/mirai-http-dotnet-sdk)|用于开发 mirai 应用基于 mirai-http-api 的 .NET SDK **（正在重构项目）**|C#|.NET Standard 2.1|Debugging|停更|
-|[@ricky8955555](https://gitlab.huajitech.net/Ricky8955555)|[Ricky8955555.Mirai.Routing](https://gitlab.huajitech.net/Ricky8955555/mirai-routing)|基于 HuajiTech.Mirai 用于路由指令消息的类库|C#|.NET 5.0 / [HuajiTech.Mirai](https://github.com/huajitech/mirai-http-dotnet-sdk)|v1.0.4-beta (debug)|停更|
-|[@ricky8955555](https://github.com/ricky8955555)|[Ricky8955555.CoolQ](https://github.com/ricky8955555/Ricky8955555.CoolQ)|一款基于 酷Q 的机器人插件|C#|.NET Framework 4.7.2 / [HuajiTech.CoolQ](https://github.com/huajitech/coolq-dotnet-sdk)|v1.13.1 (release) v2.3.x (debug)|停更|
+|项目归属|项目名|介绍|语言|框架 / SDK|状态|
+|:----:|:----:|:----:|:----:|:----:|:----:|
+|[@Mo-Ink](https://github.com/Mo-Ink)|[SeewoHelper](https://github.com/Mo-Ink/SeewoHelper)|解决Seewo一体机屏幕过大不便操作的问题|C#|.NET 5.0|持更|
+|[@huajitech](https://github.com/huajitech)|[HuajiTech.Mirai.Http](https://github.com/huajitech/mirai-http-dotnet-sdk)|用于开发 mirai 应用基于 mirai-http-api 的 .NET SDK **（正在重构项目）**|C#|.NET Standard 2.1|停更|
+|[@ricky8955555](https://gitlab.huajitech.net/Ricky8955555)|[Ricky8955555.Mirai.Routing](https://gitlab.huajitech.net/Ricky8955555/mirai-routing)|基于 HuajiTech.Mirai 用于路由指令消息的类库|C#|.NET 5.0 / [HuajiTech.Mirai](https://github.com/huajitech/mirai-http-dotnet-sdk)|停更|
+|[@ricky8955555](https://github.com/ricky8955555)|[Ricky8955555.CoolQ](https://github.com/ricky8955555/Ricky8955555.CoolQ)|一款基于 酷Q 的机器人插件|C#|.NET Framework 4.7.2 / [HuajiTech.CoolQ](https://github.com/huajitech/coolq-dotnet-sdk)|停更|
 
 #### 作为贡献者的项目
 |项目归属|项目名|介绍|语言|
