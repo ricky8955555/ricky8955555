@@ -12,8 +12,8 @@ QQ: 397050061
 ### 编程语言
 
 - C#
-- VB/VB.NET
-- HTML/CSS
+- VB/VB.NET <- 已经差不多忘完了（x）
+- HTML/CSS/JS
 
 ### 项目
 
