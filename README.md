@@ -2,11 +2,14 @@
 
 你好呀，我是一个万能的工具人
 
-QQ: 397050061
+---
 
-个人网站：https://ricky8955555.neocities.org/
+### 社交平台及网站
+- QQ: 397050061
+- 知乎：https://www.zhihu.com/people/ricky8955555
+- 个人网站：https://ricky8955555.neocities.org/
 
-知乎：https://www.zhihu.com/people/ricky8955555
+### GitHub 状态
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricky8955555&&layout=compact)
 ![ricky8955555's stats](https://github-readme-stats.vercel.app/api?username=ricky8955555&show_icons=true&count_private=true)
