@@ -12,7 +12,7 @@
 ### GitHub 状态
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricky8955555&&layout=compact)
-![ricky8955555's stats](https://github-readme-stats.vercel.app/api?username=ricky8955555&show_icons=true&count_private=true)
+![ricky8955555's stats](https://github-readme-stats.vercel.app/api?username=ricky8955555&show_icons=true&count_private=true&include_all_commits=true)
 
 ### 编程语言
 
