@@ -19,6 +19,7 @@
 - C#
 - VB/VB.NET <- 已经差不多忘完了（x）
 - HTML/CSS/JS
+- Python
 
 ### 项目
 
