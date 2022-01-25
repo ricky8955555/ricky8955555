@@ -9,10 +9,11 @@
 - 知乎：https://www.zhihu.com/people/ricky8955555
 - 个人网站：https://ricky8955555.neocities.org/
 
-### GitHub 状态
+### 状态
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricky8955555&&layout=compact)
 ![ricky8955555's stats](https://github-readme-stats.vercel.app/api?username=ricky8955555&show_icons=true&count_private=true&include_all_commits=true)
+![ricky8955555's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ricky8955555)
 
 ### 编程语言
 
