@@ -28,7 +28,7 @@
 
 |项目归属|项目名|介绍|语言|框架 / SDK|状态|
 |:----:|:----:|:----:|:----:|:----:|:----:|
-|[@huajitech](https://github.com/huajitech)|[Cyan (HuajiTech GitLab)](https://gitlab.huajitech.net/huajitech/cyan)<br>[Cyan (GitHub)](https://github.com/huajitech/cyan)|QQ 机器人 Python SDK|Python|Python 3.10+|活跃|
+|[@huajitech](https://github.com/huajitech)|[Cyan (HuajiTech GitLab)](https://gitlab.huajitech.net/huajitech/cyan)<br>[Cyan (GitHub)](https://github.com/huajitech/cyan)|QQ 机器人 Python SDK|Python|Python 3.7+|活跃|
 |[@Mo-Ink](https://github.com/Mo-Ink)|[SeewoHelper](https://github.com/Mo-Ink/SeewoHelper)|解决Seewo一体机屏幕过大不便操作的问题|C#|.NET 5.0|不活跃|
 |[@huajitech](https://github.com/huajitech)|[HuajiTech.Mirai.Http](https://github.com/huajitech/mirai-http-dotnet-sdk)|用于开发 mirai 应用基于 mirai-http-api 的 .NET SDK **（正在重构项目）**|C#|.NET Standard 2.1|停更|
 |[@ricky8955555](https://gitlab.huajitech.net/Ricky8955555)|[Ricky8955555.Mirai.Routing](https://gitlab.huajitech.net/Ricky8955555/mirai-routing)|基于 HuajiTech.Mirai 用于路由指令消息的类库|C#|.NET 5.0 / [HuajiTech.Mirai](https://github.com/huajitech/mirai-http-dotnet-sdk)|停更|
