@@ -5,9 +5,9 @@
 ---
 
 ### 社交平台及网站
-- QQ: 397050061
+- Telegram: [@ricky8955555](https://t.me/ricky8955555)
 - 知乎：https://www.zhihu.com/people/ricky8955555
-- 个人网站：https://ricky8955555.neocities.org/
+- Telegram 频道: [@rkmiao](https://t.me/rkmiao)
 
 ### 状态
 
