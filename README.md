@@ -1,6 +1,8 @@
 ## Hey！这里是 Ricky8955555
 
-你好呀，我是一个万能的工具人
+你好呀，我是一个万能的工具人，也是个正太控！
+
+详细的个人介绍可以在我的 Telegram 频道上看到哦: https://t.me/rkmiao/12
 
 ---
 
@@ -8,6 +10,8 @@
 - Telegram: [@ricky8955555](https://t.me/ricky8955555)
 - 知乎：https://www.zhihu.com/people/ricky8955555
 - Telegram 频道: [@rkmiao](https://t.me/rkmiao)
+- Gmail: [ricky8955555@gmail.com](mailto:ricky8955555@gmail.com)
+- QQ Mail: [ricky8955555@qq.com](mailto:ricky8955555@qq.com)
 
 ### 状态
 
