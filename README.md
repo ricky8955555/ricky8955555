@@ -9,7 +9,7 @@
 ### 社交平台及网站
 - Telegram: [@ricky8955555](https://t.me/ricky8955555)
 - Telegram 频道: [@rkmiao](https://t.me/rkmiao)
-- 知乎: [@rkmiao](https://www.zhihu.com/people/ricky8955555)
+- 知乎: [@ricky8955555](https://www.zhihu.com/people/ricky8955555)
 - Gmail: [ricky8955555@gmail.com](mailto:ricky8955555@gmail.com)
 
 ### 编程语言
