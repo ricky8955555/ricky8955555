@@ -36,10 +36,11 @@
 |:----:|:----:|:----:|:----:|
 |[@huajitech](https://github.com/huajitech)|[HuajiTech.CoolQ](https://github.com/huajitech/coolq-dotnet-sdk)|用于酷Q应用的 .NET SDK|C#|
 
-### 状态
+### 仪表盘
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricky8955555&&layout=compact)
 ![ricky8955555's stats](https://github-readme-stats.vercel.app/api?username=ricky8955555&show_icons=true&count_private=true&include_all_commits=true) -->
+
 ![Metrics](/github-metrics.svg)
 
-![ricky8955555's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ricky8955555)
+<!--![ricky8955555's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ricky8955555)-->
