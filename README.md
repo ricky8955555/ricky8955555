@@ -9,9 +9,11 @@ More information about me can be found at:
 
 ---
 
-### Contact
+### Contact / Social Platform
 - Telegram: [@ricky8955555](https://t.me/ricky8955555)
 - Gmail: [ricky8955555@gmail.com](mailto:ricky8955555@gmail.com)
+- Twitter: [@ricky8955555](https://twitter.com/ricky8955555)
+- Fediverse (at decent.moe): [@ricky@decent.moe](https://decent.moe/@ricky)
 
 ### Metrics
 
