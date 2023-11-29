@@ -1,4 +1,4 @@
-## Hey！Here is Ricky8955555
+## Hey！Here is Ricky (Phrinky)
 
 Hi, here is a humanoid tool (aka. "工具人" in Chinese).
 
