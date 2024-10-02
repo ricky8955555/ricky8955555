@@ -4,7 +4,7 @@ Hi, here is a humanoid tool (aka. "工具人" in Chinese).
 
 More information about me can be found at:
 
-- Telegram Channel: https://t.me/rkmyu/6
+- Telegram Channel: https://t.me/rkconn
 - Personal Website: https://rkk.moe
 
 ---
